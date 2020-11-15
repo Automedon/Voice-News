@@ -28,6 +28,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://automedon.github.io/Voice-News/",
   "browserslist": {
     "production": [
       ">0.2%",

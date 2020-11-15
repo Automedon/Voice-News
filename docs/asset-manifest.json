@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Voice-News/static/css/main.b563d575.chunk.css",
+    "main.js": "/Voice-News/static/js/main.d6d1a888.chunk.js",
+    "main.js.map": "/Voice-News/static/js/main.d6d1a888.chunk.js.map",
+    "runtime-main.js": "/Voice-News/static/js/runtime-main.5f000c5f.js",
+    "runtime-main.js.map": "/Voice-News/static/js/runtime-main.5f000c5f.js.map",
+    "static/js/2.f2f65bf9.chunk.js": "/Voice-News/static/js/2.f2f65bf9.chunk.js",
+    "static/js/2.f2f65bf9.chunk.js.map": "/Voice-News/static/js/2.f2f65bf9.chunk.js.map",
+    "index.html": "/Voice-News/index.html",
+    "static/css/main.b563d575.chunk.css.map": "/Voice-News/static/css/main.b563d575.chunk.css.map",
+    "static/js/2.f2f65bf9.chunk.js.LICENSE.txt": "/Voice-News/static/js/2.f2f65bf9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f000c5f.js",
+    "static/js/2.f2f65bf9.chunk.js",
+    "static/css/main.b563d575.chunk.css",
+    "static/js/main.d6d1a888.chunk.js"
+  ]
+}
